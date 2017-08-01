@@ -1,4 +1,4 @@
-name: minikube
+name: minikube-cprov
 version: 0.8.0
 summary: Run Kubernetes locally
 description: |
